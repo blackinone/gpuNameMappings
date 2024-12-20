@@ -87,7 +87,7 @@
     },
     {
       "gpuName": "GeForce RTX 4080h",
-      "mappedGpuName": "GeForce RTX 4080",
+     "mappedGpuName": "Test",
       "mappedGdnGpuName": "NVIDIA L40"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "gpuName": "GeForce RTX 4080hi",
-      "mappedGpuName": "GeForce RTX 4080",
+     "mappedGpuName": "Test",
       "mappedGdnGpuName": "GeForce RTX 4080"
     },
     {
@@ -237,17 +237,17 @@
     },
     {
       "gpuName": "4080p / L40x2",
-      "mappedGpuName": "GeForce RTX 4080",
+     "mappedGpuName": "Test",
       "mappedGdnGpuName": "NVIDIA L96"
     },
     {
       "gpuName": "4080p / L40Gx2",
-      "mappedGpuName": "GeForce RTX 4080",
+     "mappedGpuName": "Test",
       "mappedGdnGpuName": "NVIDIA L80"
     },
     {
       "gpuName": "4080p / L40Sx2",
-      "mappedGpuName": "GeForce RTX 4080",
+     "mappedGpuName": "Test",
       "mappedGdnGpuName": "NVIDIA L96"
     }
   ]
