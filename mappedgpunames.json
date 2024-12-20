@@ -1,0 +1,254 @@
+{
+  "gpuNameMap": [
+    {
+      "gpuName": "GeForce GTX 1080c",
+      "mappedGpuName": "GeForce GTX 1080",
+      "mappedGdnGpuName": "GeForce GTX 1080"
+    },
+    {
+      "gpuName": "GeForce GTX 1080d",
+      "mappedGpuName": "GeForce GTX 1080",
+      "mappedGdnGpuName": "GeForce GTX 1080"
+    },
+    {
+      "gpuName": "GeForce RTX 2060b",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "GeForce GTX 1060"
+    },
+    {
+      "gpuName": "GeForce RTX 2060bi",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "GeForce GTX 1060"
+    },
+    {
+      "gpuName": "GeForce RTX 2060c",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "GeForce GTX 1060"
+    },
+    {
+      "gpuName": "GeForce RTX 2080c",
+      "mappedGpuName": "GeForce RTX 2080",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "GeForce RTX 2080d",
+      "mappedGpuName": "GeForce RTX 2080",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "GeForce RTX 2080h",
+      "mappedGpuName": "GeForce RTX 2080",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "GeForce RTX 3050b",
+      "mappedGpuName": "GeForce RTX 3050",
+      "mappedGdnGpuName": "NVIDIA A3"
+    },
+    {
+      "gpuName": "GeForce RTX 3060d",
+      "mappedGpuName": "GeForce RTX 3060",
+      "mappedGdnGpuName": "NVIDIA A5"
+    },
+    {
+      "gpuName": "GeForce RTX 3080h",
+      "mappedGpuName": "GeForce RTX 3080",
+      "mappedGdnGpuName": "NVIDIA A10"
+    },
+    {
+      "gpuName": "GeForce RTX 2060e",
+      "mappedGpuName": "GeForce RTX 3060",
+      "mappedGdnGpuName": "GeForce RTX 3060"
+    },
+    {
+      "gpuName": "GeForce RTX 2080e",
+      "mappedGpuName": "GeForce RTX 3080",
+      "mappedGdnGpuName": "GeForce RTX 3080"
+    },
+    {
+      "gpuName": "GeForce GTX 1060b",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "GeForce GTX 1060bi",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "GeForce GTX 1060c",
+      "mappedGpuName": "GeForce GTX 1060",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "GeForce RTX 4060d",
+      "mappedGpuName": "GeForce RTX 3060",
+      "mappedGdnGpuName": "NVIDIA L20"
+    },
+    {
+      "gpuName": "GeForce RTX 4080h",
+      "mappedGpuName": "GeForce RTX 4080",
+      "mappedGdnGpuName": "NVIDIA L40"
+    },
+    {
+      "gpuName": "GeForce RTX 4060di",
+      "mappedGpuName": "GeForce RTX 4060",
+      "mappedGdnGpuName": "GeForce RTX 4060"
+    },
+    {
+      "gpuName": "GeForce RTX 4080hi",
+      "mappedGpuName": "GeForce RTX 4080",
+      "mappedGdnGpuName": "GeForce RTX 4080"
+    },
+    {
+      "gpuName": "GeForce RTX 4050b",
+      "mappedGpuName": "GeForce RTX 3050",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "GeForce RTX 3080k",
+      "mappedGpuName": "GeForce RTX 3080",
+      "mappedGdnGpuName": "NVIDIA A20"
+    },
+    {
+      "gpuName": "GeForce RTX 2050 / RTX Off",
+      "mappedGpuName": "GeForce RTX 2050 / RTX Off",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "GeForce RTX 3050d",
+      "mappedGpuName": "GeForce RTX 2050",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "1060b / T10-8",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "1060bi / T10-8",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "1060c / T10-8",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA T5"
+    },
+    {
+      "gpuName": "1080d / P40",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": ""
+    },
+    {
+      "gpuName": "2060c / L40G-8",
+      "mappedGpuName": "GeForce RTX 2060",
+      "mappedGdnGpuName": "NVIDIA L13"
+    },
+    {
+      "gpuName": "2080c / T10",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "2080d / T10",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "2080h / T10",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA T10"
+    },
+    {
+      "gpuName": "3050b / L40-6",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "3050b / L40G-6",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "3050b / L40S-6",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA L10"
+    },
+    {
+      "gpuName": "3050b / A10G-6",
+      "mappedGpuName": "Basic Rig",
+      "mappedGdnGpuName": "NVIDIA A3"
+    },
+    {
+      "gpuName": "3060d / L40-24",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA L24"
+    },
+    {
+      "gpuName": "3060d / L40-12",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA L20"
+    },
+    {
+      "gpuName": "3060d / L40G-12",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA L20"
+    },
+    {
+      "gpuName": "3060d / L40S-12",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA L20"
+    },
+    {
+      "gpuName": "3060d / L40S-24",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA L24"
+    },
+    {
+      "gpuName": "3060d / A10G-12",
+      "mappedGpuName": "GeForce RTX",
+      "mappedGdnGpuName": "NVIDIA A5"
+    },
+    {
+      "gpuName": "3080h / A10G",
+      "mappedGpuName": "GeForce RTX 3080",
+      "mappedGdnGpuName": "NVIDIA A10"
+    },
+    {
+      "gpuName": "3080p / A10Gx2",
+      "mappedGpuName": "GeForce RTX 3080",
+      "mappedGdnGpuName": "NVIDIA A20"
+    },
+    {
+      "gpuName": "4080h / L40",
+      "mappedGpuName": "Test",
+      "mappedGdnGpuName": "NVIDIA L48"
+    },
+    {
+      "gpuName": "4080h / L40G",
+      "mappedGpuName": "Test",
+      "mappedGdnGpuName": "NVIDIA L40G"
+    },
+    {
+      "gpuName": "4080h / L40S",
+      "mappedGpuName": "Test",
+      "mappedGdnGpuName": "NVIDIA L48"
+    },
+    {
+      "gpuName": "4080p / L40x2",
+      "mappedGpuName": "GeForce RTX 4080",
+      "mappedGdnGpuName": "NVIDIA L96"
+    },
+    {
+      "gpuName": "4080p / L40Gx2",
+      "mappedGpuName": "GeForce RTX 4080",
+      "mappedGdnGpuName": "NVIDIA L80"
+    },
+    {
+      "gpuName": "4080p / L40Sx2",
+      "mappedGpuName": "GeForce RTX 4080",
+      "mappedGdnGpuName": "NVIDIA L96"
+    }
+  ]
+}
